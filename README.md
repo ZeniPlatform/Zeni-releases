@@ -18,7 +18,7 @@
     <img alt="Apóyanos en Ko-fi" src="https://img.shields.io/badge/Ap%C3%B3yanos%20en-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white">
   </a>
   <br>
-  <sub>Windows 10 y 11 · Gratis · Se actualiza solo · <a href="https://github.com/ZeniPlatform/Zeni-releases/releases">Todas las versiones</a></sub>
+  <sub>Windows 10 y 11 · Gratis · Se actualiza solo · <a href="https://zeni-platform.cl">zeni-platform.cl</a> · <a href="https://github.com/ZeniPlatform/Zeni-releases/releases">Todas las versiones</a></sub>
 </p>
 
 ---
